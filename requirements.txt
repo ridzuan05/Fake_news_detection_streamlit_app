@@ -4,7 +4,6 @@ tensorflow
 nltk
 pandas
 matplotlib
-re
 string
 numpy
 seaborn
