@@ -4,7 +4,6 @@ tensorflow
 nltk
 pandas
 matplotlib
-string
 numpy
 seaborn
 plotly
